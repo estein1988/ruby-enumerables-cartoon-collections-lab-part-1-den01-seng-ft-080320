@@ -7,4 +7,5 @@ end
 def list_dwarves(array)
   arracy.each_with_index do |dwarve|
     puts "#{dwarve}"
+  end
 end
